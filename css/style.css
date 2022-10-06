@@ -1,0 +1,67 @@
+.location-link{
+    color: gray;
+    text-decoration: none;
+}
+
+.green-background{
+    background-color:  rgb(46, 176, 50);
+}
+
+.white-text{
+    color: white;
+}
+
+.gray-text{
+    color: gray;
+}
+
+.btn-theme{
+    color: white;
+    border: 1px solid rgb(46, 176, 50);
+    background-color:  rgb(46, 176, 50);
+}
+
+.btn-theme:hover{
+    border: 1px solid rgb(46, 176, 50);
+}
+
+puppy-card {
+    width: 18rem;
+}
+
+.location-icon{
+    color: rgb(46, 176, 50);
+}
+
+.featured{
+    padding: 6%;
+}
+
+parrent-img{
+    height: 400px;
+}
+
+.videoWrapper {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 */
+    height: 0;
+  }
+  .videoWrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+.wrapper-stene-detalji {
+    padding: 5%;
+}
+
+#kontaktForma {
+    display: none;
+}
+
+#uspjehAlert {
+    display: none;
+}
